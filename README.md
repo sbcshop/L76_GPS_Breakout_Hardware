@@ -3,7 +3,7 @@
 <img src="https://github.com/sbcshop/Trekko_Software/blob/main/images/trekko_banner.jpg">
 -->
 
-This GitHub provides hardware design files for the Trekko - Pico GPS Logger.
+This GitHub provides hardware design files for the L76K GPS breakout.
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/L76_GPS_Breakout_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
